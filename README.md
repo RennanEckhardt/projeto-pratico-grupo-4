@@ -13,6 +13,7 @@ Os membros do grupo são:
 - Ian Rafael De Souza Oliveira
 - Pedro Augusto Vaz De Souza E Silva
 - Pedro Henrique Ramos Loura
+- Rennan Moreira Eckhardt Tavares
 
 # Documentação
 
